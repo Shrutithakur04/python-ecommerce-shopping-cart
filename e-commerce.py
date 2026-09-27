@@ -148,7 +148,7 @@ class Order:
 
 customer = Customer(
     "Shruti",
-    "email@example.com",
+    "shruti@gmail.com",
     "Delhi"
 )
 
